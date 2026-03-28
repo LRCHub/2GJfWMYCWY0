@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "GO",
   "base_artist": "BLACKPINK",
-  "createdAt": "2026-03-01T07:38:25.650364Z",
+  "createdAt": "2026-03-28T15:39:28.557341Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -131,6 +131,15 @@
       "artist": "BLACKPINK",
       "has_synced": false,
       "path": "select/pl_01_GO_BLACKPINK.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "GO",
+      "artist": "BLACKPINK",
+      "has_synced": false,
+      "path": "select/localdb_01_GO_BLACKPINK.txt",
+      "repo_name": "2GJfWMYCWY0"
     }
   ]
 }
